@@ -1,0 +1,77 @@
+/* 
+MY COLOR PALET
+==============
+Ultra Red :#EF798A
+Turquoise Green :#B8D8BA
+Eggplant :#5D4E60
+Mango :#FFBE0B
+Ming :#2C666E
+Orange Soda :#F55536
+Mint Cream: #EFF9F0
+Cadet Blue Crayola :#96ADC8
+Pine Green: #157A6E
+Baby Blue Eyes: #B0D7FF
+Blue Munsell: #2B9EB3
+Middle Blue Green: #9EEFE5
+Dark Jungle Green: #162521
+Cultured: #F5F5F5
+*/
+
+/* Global Styles
+------------------------------------------- */
+body{
+    color: #5D4E60;
+}
+img{
+    width: 300px;
+}
+a{
+    color: #2B9EB3;
+}
+a:hover{
+    text-decoration: none;
+}
+
+/* Profile
+------------------------------------------- */
+header{
+    background-color: #EF798A;
+}
+
+/* Projects
+------------------------------------------- */
+.projects{
+    background: #F5F5F5;
+}
+.projects a{
+    color:#9EEFE5;
+    background: #162521;
+    text-decoration: none;
+    padding: 6px;
+    border-radius: 4px;
+}
+.projects a:hover{
+    background: rgba(22,37,33,80%);
+}
+
+/* Work Experience
+------------------------------------------- */
+.work-experience{
+    background: #FFBE0B;
+}
+
+/* Education
+------------------------------------------- */
+.education{
+    background: #F55536;
+}
+
+/* Contact Info
+------------------------------------------- */
+footer{
+    background-color: dimgray;
+    color: #EFF9F0;
+}
+footer a{
+    color: #9EEFE5;
+}
