@@ -1,0 +1,23 @@
+{
+  "name": "css_essential",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izuru775/CSS_Essentials.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izuru775/CSS_Essentials/issues"
+  },
+  "homepage": "https://github.com/izuru775/CSS_Essentials#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
