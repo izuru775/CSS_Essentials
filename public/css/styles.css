@@ -21,6 +21,8 @@ Cultured: #F5F5F5
 ------------------------------------------- */
 body{
     color: #5D4E60;
+    margin: 0;
+    padding: 0;
 }
 img{
     width: 300px;
@@ -32,8 +34,9 @@ a:hover{
     text-decoration: none;
 }
 .content-wrap{
-    width: 900px;
+    width: 800px;
     margin: 0 auto;
+    padding: 60px 0;
 }
 /* Profile
 ------------------------------------------- */
